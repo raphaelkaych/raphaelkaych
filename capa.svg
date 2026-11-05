@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" role="img" aria-labelledby="titulo">
+  <title id="titulo">Raphael Kaych. Sistemas, operações e desenvolvimento.</title>
+  <rect width="960" height="232" rx="18" fill="#102a2b"/>
+  <path d="M32 34H928M32 199H928" stroke="#47605d"/>
+  <path d="M691 116h39l31-46h63l33 46h61M730 116l31 46h63l33-46" fill="none" stroke="#80aa9c" stroke-width="2"/>
+  <circle cx="730" cy="116" r="6" fill="#e9b976"/>
+  <circle cx="761" cy="70" r="5" fill="#80aa9c"/>
+  <circle cx="824" cy="162" r="5" fill="#80aa9c"/>
+  <circle cx="857" cy="116" r="6" fill="#e9b976"/>
+  <text x="43" y="73" fill="#e9b976" font-family="monospace" font-size="17" letter-spacing="3">PORTFÓLIO / TI</text>
+  <text x="40" y="132" fill="#fcf5e8" font-family="Georgia, serif" font-size="57" font-weight="bold">Raphael Kaych</text>
+  <text x="43" y="168" fill="#cadbd1" font-family="sans-serif" font-size="22">Sistemas, operações e desenvolvimento</text>
+</svg>
