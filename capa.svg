@@ -1,13 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" role="img" aria-labelledby="titulo">
-  <title id="titulo">Raphael Kaych. Sistemas, operações e desenvolvimento.</title>
-  <rect width="960" height="232" rx="18" fill="#102a2b"/>
-  <path d="M32 34H928M32 199H928" stroke="#47605d"/>
-  <path d="M691 116h39l31-46h63l33 46h61M730 116l31 46h63l33-46" fill="none" stroke="#80aa9c" stroke-width="2"/>
-  <circle cx="730" cy="116" r="6" fill="#e9b976"/>
-  <circle cx="761" cy="70" r="5" fill="#80aa9c"/>
-  <circle cx="824" cy="162" r="5" fill="#80aa9c"/>
-  <circle cx="857" cy="116" r="6" fill="#e9b976"/>
-  <text x="43" y="73" fill="#e9b976" font-family="monospace" font-size="17" letter-spacing="3">PORTFÓLIO / TI</text>
-  <text x="40" y="132" fill="#fcf5e8" font-family="Georgia, serif" font-size="57" font-weight="bold">Raphael Kaych</text>
-  <text x="43" y="168" fill="#cadbd1" font-family="sans-serif" font-size="22">Sistemas, operações e desenvolvimento</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Raphael Kaych</title>
+  <desc id="desc">Software Development · Quality Engineering</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#05070D"/>
+      <stop offset=".64" stop-color="#080F20"/>
+      <stop offset="1" stop-color="#102444"/>
+    </linearGradient>
+    <radialGradient id="blue" cx=".77" cy=".39" r=".42">
+      <stop stop-color="#377FFB" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#377FFB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#75A9FF" stroke-opacity=".11"/>
+    </pattern>
+    <linearGradient id="line" x2="1">
+      <stop stop-color="#253955"/>
+      <stop offset=".53" stop-color="#75A9FF"/>
+      <stop offset="1" stop-color="#253955"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="380" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#background)"/>
+    <rect width="1200" height="380" fill="url(#blue)"/>
+    <path d="M670 0H1200V380H540Z" fill="url(#grid)"/>
+    <path d="M604 380 735 0M638 380 769 0M1070 380 1200 0" stroke="#253955" stroke-opacity=".48"/>
+    <path d="M724 193h57l24-34h62M975 159h60l22 32h89M916 216v25l27 27h81M891 116V91l-21-21h-46"
+      fill="none" stroke="#75A9FF" stroke-opacity=".58" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M697 225h85l22-24h48M978 113h53l15-16h79M896 221v37l-34 35h-70"
+      fill="none" stroke="#253955" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="724" cy="193" r="4" fill="#080F20" stroke="#75A9FF"/>
+    <circle cx="1146" cy="191" r="4" fill="#080F20" stroke="#75A9FF"/>
+    <circle cx="1024" cy="268" r="4" fill="#080F20" stroke="#75A9FF"/>
+    <circle cx="824" cy="70" r="3" fill="#75A9FF"/>
+    <circle cx="918" cy="164" r="85" fill="none" stroke="#377FFB" stroke-opacity=".26" stroke-dasharray="3 7"/>
+    <circle cx="918" cy="164" r="70" fill="none" stroke="#377FFB" stroke-opacity=".34"/>
+    <path d="M918 106 976 164 918 222 860 164Z" fill="#102444" stroke="#75A9FF" stroke-width="1.6"/>
+    <path d="M918 120 962 164 918 208 874 164Z" fill="#152E52" stroke="#377FFB" stroke-width="1"/>
+    <path d="M910 150 896 164l14 14M926 150l14 14-14 14" fill="none" stroke="#F1F6FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m923 144-10 40" stroke="#75A9FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M75 309h1050" stroke="url(#line)" stroke-opacity=".58"/>
+    <g font-family="ui-monospace, Consolas, DejaVu Sans Mono, monospace" letter-spacing="3" fill="#A7B8D0">
+      <text x="96" y="88" font-size="16">PORTFÓLIO TÉCNICO</text>
+      <text x="75" y="339" font-size="13">ENGENHARIA DE SOFTWARE</text>
+      <text x="1125" y="339" font-size="13" text-anchor="end">PRAIA GRANDE · BR</text>
+    </g>
+    <path d="M75 83h10" stroke="#75A9FF" stroke-width="2" stroke-linecap="round"/>
+    <g font-family="Segoe UI, DejaVu Sans, Arial, sans-serif">
+      <text x="70" y="205" font-size="78" font-weight="700" letter-spacing="-2.5" fill="#F1F6FF">Raphael Kaych</text>
+      <text x="75" y="256" font-size="27" font-weight="500" fill="#A7B8D0">Software Development <tspan fill="#75A9FF">·</tspan> Quality Engineering</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="19.5" fill="none" stroke="#253955"/>
 </svg>

@@ -1,16 +1,21 @@
-![Raphael Kaych. Sistemas, operações e desenvolvimento.](./capa.svg)
+![Raphael Kaych. Software Development e Quality Engineering.](./capa.svg)
 
-Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha experiência em TI passa por suporte N1/N2, sustentação de sistemas corporativos e coordenação de demandas. Gosto de entender o que acontece entre um chamado aberto, uma integração que falha e a decisão sobre o que resolver primeiro.
+Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha trajetória em sustentação e integração de sistemas orienta os projetos que construo em desenvolvimento full stack, APIs e automação de testes.
 
-**[Visite meu portfólio](https://raphael-kaych.raphaelvindex.chatgpt.site/)** para conhecer minha trajetória e experimentar os projetos no navegador.
+**[Portfólio e demonstrações](https://raphael-kaych.raphaelvindex.chatgpt.site/)** · [Resumo profissional](https://raphael-kaych.raphaelvindex.chatgpt.site/trajetoria)
 
-### Laboratórios de TI
+### Projetos em destaque
 
-| Projeto | Pergunta que orienta o projeto | Demonstração |
+| Projeto | Evidência de engenharia | Acessos |
 | --- | --- | --- |
-| [Farol de Integrações](https://github.com/raphaelkaych/farol-de-integracoes) | Como recuperar uma integração com o ERP sem perder o histórico do pedido? | [Testar retentativas e recuperação](https://raphael-kaych.raphaelvindex.chatgpt.site/farol) |
-| [Plantão de TI](https://github.com/raphaelkaych/plantao-ti) | Quais incidentes precisam de atenção antes que o prazo estoure? | [Abrir fila de chamados](https://raphael-kaych.raphaelvindex.chatgpt.site/demos/plantao-ti) |
-| [Ponte ERP](https://github.com/raphaelkaych/ponte-erp) | Como receber o mesmo evento duas vezes sem registrar o pedido em duplicidade? | [Enviar um webhook](https://raphael-kaych.raphaelvindex.chatgpt.site/demos/ponte-erp) |
-| [Pulso da Operação](https://github.com/raphaelkaych/pulso-operacao) | Onde o volume de chamados e o descumprimento de prazo se concentram? | [Comparar recortes de SLA](https://raphael-kaych.raphaelvindex.chatgpt.site/demos/pulso-operacao) |
+| QualityGate Studio | Uma API compara a reserva de referência com falhas injetadas. Playwright registra a evidência da violação. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/qualitygate) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/qualitygate-studio) · [Código](https://github.com/raphaelkaych/farol-de-integracoes/tree/main/lib/qualitygate) |
+| LedgerFlow | Conciliação de extratos fictícios com CSV, permissão por sessão e escrita com auditoria no D1. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/ledgerflow) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/ledgerflow) · [Código](https://github.com/raphaelkaych/farol-de-integracoes/tree/main/lib/ledgerflow) |
+| Farol de Integrações | Retentativas, quarentena, concorrência e recuperação de um evento com histórico. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/farol) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/farol-de-integracoes) · [Código](https://github.com/raphaelkaych/farol-de-integracoes) |
 
-Os projetos usam dados simulados e têm instruções para rodar localmente. Cada README registra o problema, as decisões de implementação e as limitações da demonstração.
+### Outros laboratórios
+
+- [Ponte ERP](https://github.com/raphaelkaych/ponte-erp) exercita webhooks assinados e reenvios idempotentes. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/ponte-erp)
+- [Pulso da Operação](https://github.com/raphaelkaych/pulso-operacao) calcula recortes de SLA com SQL. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/pulso-operacao)
+- [Plantão de TI](https://github.com/raphaelkaych/plantao-ti) modela a triagem por prazo de resolução. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/plantao-ti)
+
+Uso TypeScript, React, Python e SQL nos laboratórios. As execuções públicas mostram os testes de domínio, integração e navegador. [GitHub Actions](https://github.com/raphaelkaych/farol-de-integracoes/actions/workflows/validar.yml)
