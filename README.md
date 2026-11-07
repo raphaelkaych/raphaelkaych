@@ -11,6 +11,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha traje
 | QualityGate Studio | Uma API compara a reserva de referência com falhas injetadas. Playwright registra a evidência da violação. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/qualitygate) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/qualitygate-studio) · [Código](https://github.com/raphaelkaych/farol-de-integracoes/tree/main/lib/qualitygate) |
 | LedgerFlow | Conciliação de extratos fictícios com CSV, permissão por sessão e escrita com auditoria no D1. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/ledgerflow) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/ledgerflow) · [Código](https://github.com/raphaelkaych/farol-de-integracoes/tree/main/lib/ledgerflow) |
 | Farol de Integrações | Retentativas, quarentena, concorrência e recuperação de um evento com histórico. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/farol) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/farol-de-integracoes) · [Código](https://github.com/raphaelkaych/farol-de-integracoes) |
+| TraceAtlas | Rastros simulados com P95 e logs correlacionados. A sonda do banco mede a prontidão da demo separadamente. | [Demo](https://raphael-kaych.raphaelvindex.chatgpt.site/traceatlas) · [Caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/traceatlas) · [Código](https://github.com/raphaelkaych/farol-de-integracoes/tree/main/lib/traceatlas) |
 
 ### Outros laboratórios
 
