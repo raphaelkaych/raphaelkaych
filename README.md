@@ -2,7 +2,7 @@
 
 Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha trajetória em sustentação e integração de sistemas orienta os projetos que construo em desenvolvimento full stack, APIs e automação de testes.
 
-**[Portfólio e demonstrações](https://raphael-kaych.raphaelvindex.chatgpt.site/)** · [Resumo profissional](https://raphael-kaych.raphaelvindex.chatgpt.site/trajetoria)
+**[Portfólio e demonstrações](https://raphael-kaych.raphaelvindex.chatgpt.site/)** · [Currículo online](https://raphael-kaych.raphaelvindex.chatgpt.site/trajetoria)
 
 ### Projetos em destaque
 
@@ -15,6 +15,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha traje
 
 ### Outros laboratórios
 
+- [Radar de Retorno](https://raphael-kaych.raphaelvindex.chatgpt.site/radar-de-retorno) valida HTTP e JSON em respostas fictícias de integração. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/radar-de-retorno)
 - [Ponte ERP](https://github.com/raphaelkaych/ponte-erp) exercita webhooks assinados e reenvios idempotentes. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/ponte-erp)
 - [Pulso da Operação](https://github.com/raphaelkaych/pulso-operacao) calcula recortes de SLA com SQL. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/pulso-operacao)
 - [Plantão de TI](https://github.com/raphaelkaych/plantao-ti) modela a triagem por prazo de resolução. [Estudo de caso](https://raphael-kaych.raphaelvindex.chatgpt.site/projetos/plantao-ti)
