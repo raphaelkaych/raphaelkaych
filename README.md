@@ -1,8 +1,8 @@
-![Raphael Kaych. Software Development & Quality Engineering.](./capa.svg)
+![Raphael Kaych. Software que passa pelo teste: desenvolvimento, integrações e qualidade de software.](./capa.svg)
 
-Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Minha experiência com sustentação e integração de sistemas orienta os laboratórios que construo em desenvolvimento full stack, APIs e automação de testes.
+Estudo Análise e Desenvolvimento de Sistemas na Fatec Praia Grande. Desenvolvo aplicações, APIs e integrações, e escrevo os testes que provam que elas funcionam. A experiência sustentando sistemas em produção orienta os laboratórios abaixo: cada um roda no navegador e tem código e testes abertos.
 
-**[Portfólio](https://raphael-kaych.raphaelvindex.chatgpt.site/)** · **[Developer Workspace](https://raphael-kaych.raphaelvindex.chatgpt.site/workspace)** · [Currículo online](https://raphael-kaych.raphaelvindex.chatgpt.site/trajetoria)
+**[Portfólio](https://raphael-kaych.raphaelvindex.chatgpt.site/)** · **[Executar uma demo](https://raphael-kaych.raphaelvindex.chatgpt.site/qualitygate)** · [Developer Workspace](https://raphael-kaych.raphaelvindex.chatgpt.site/workspace) · [Currículo online](https://raphael-kaych.raphaelvindex.chatgpt.site/trajetoria)
 
 ### Projetos em destaque
 
